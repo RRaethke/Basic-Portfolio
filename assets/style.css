@@ -22,7 +22,7 @@ h1 {
 }
 
 h2 {
-	font-size: 1.3em;
+	font-size: 1.5em;
 }
 
 header {
@@ -89,11 +89,6 @@ header .container {
 	color: #000000;
 }
 
-.nav ul li+li {
-	border-left: 1px solid #cccccc;
-}
-
-
 .content {
 	width: 960px;
 	clear: both;
@@ -123,7 +118,7 @@ header .container {
 	margin-bottom: 2em;
 }
 
-img.headshot {
+img.reece-pic {
 	float: left;
 	padding: 0 1em 1em 0;
 	width: 200px;
